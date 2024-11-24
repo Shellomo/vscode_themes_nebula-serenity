@@ -1,0 +1,32 @@
+{
+  "name": "nebula-serenity",
+  "displayName": "Nebula Serenity",
+  "description": "A sophisticated VS Code theme designed for focus and productivity",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula Serenity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebula-serenity-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "Shellomo",
+  "icon": "media/nebula-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shellomo/vscode_themes_nebula-serenity"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "nebula",
+    "focus",
+    "productivity"
+  ]
+}
