@@ -2,7 +2,7 @@
   "name": "nebula-serenity",
   "displayName": "Nebula Serenity",
   "description": "A sophisticated VS Code theme designed for focus and productivity",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.60.0"
   },
